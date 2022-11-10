@@ -1,15 +1,15 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Information Systems Engineering Student 👨‍🎓, also I'm interesting Blockchain and I want to make some project about AI!
-- 🔭 I’m currently working on Blockchain Technology.
-- 🌱 I’m currently learning 😂
-- 🥅 2023 Goals: Study about WEB3, development Blockchain projects 🌎 and learning artificial intelligence 🤖
-♀
+## I'm a Information Systems Engineering Student, also I'm interesting Blockchain and I want to make some project about AI!
+-  I’m currently working on Blockchain Technology.
+-  I’m currently learning 
+-  2023 Goals: Study about WEB3, development Blockchain projects and learning artificial intelligence 
+<br />
+<br />
 
-
-## ⏲ What we are doing now:
-I'm developing a NFT project (I will announce soon)
-I'm writing a site (I will announce soon)
+##  What we are doing now:
+I'm developing a NFT project (I will announce soon)<br />
+I'm writing a site (I will announce soon)<br />
 I'm also founder of 2 startups
 
 <br />
@@ -35,9 +35,7 @@ I'm also founder of 2 startups
 
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 
 ### GitHub Analytics 📊
@@ -46,7 +44,7 @@ I'm also founder of 2 startups
 </a>
 
 <br />
-<br />
+
 
 
 [linkedin]: https://www.linkedin.com/in/erayeren-ee/
