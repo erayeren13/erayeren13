@@ -7,9 +7,9 @@
 <br />
 <br />
 
-##  What we are doing now:
+##  What I am doing now:
 I'm developing a NFT project (I will announce soon)<br />
-I'm writing a site (I will announce soon)<br />
+I'm making a site (I will announce soon)<br />
 I'm also founder of 2 startups
 
 <br />
