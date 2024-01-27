@@ -1,15 +1,11 @@
 
 ## I'm a Information Systems Engineering Student, also I'm interesting Blockchain and I want to make some project about AI!
--  I’m currently working on Blockchain Technology.
--  I’m currently learning 
--  2023 Goals: Study about WEB3, development Blockchain projects and learning artificial intelligence 
+
 <br />
 <br />
 
 ##  What I am doing now:
-I'm developing a NFT project (I will announce soon)<br />
-I'm making a site (I will announce soon)<br />
-I'm also founder of 2 startups
+I'm continue to study in collage <br />
 
 <br />
 
