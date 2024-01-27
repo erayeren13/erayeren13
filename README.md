@@ -43,7 +43,7 @@ I'm continue to study in collage <br />
 
 [linkedin]: https://www.linkedin.com/in/erayeren-ee/
 [medium]: https://medium.com/@iamsquanching
-[gmail]: mailto:mail@erayeren.com
+[gmail]: mailto:info@erayeren.com
 [C]: https://www.open-std.org/jtc1/sc22/wg14/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
